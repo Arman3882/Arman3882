@@ -1,16 +1,26 @@
-## Hi there 👋
+# Arman Akopyan
 
-<!--
-**Arman3882/Arman3882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & Creator of MEC VPN**
 
-Here are some ideas to get you started:
+I am the founder and creator of [MEC VPN](https://mecvpn.com), a privacy-focused VPN project built to make secure internet access simple and accessible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I lead the overall direction, development and vision of MEC VPN.
+
+## MEC VPN
+
+MEC VPN is being developed around a simple principle: powerful privacy technology should stay behind the scenes while the experience for users remains straightforward.
+
+🌐 [mecvpn.com](https://mecvpn.com)
+
+👤 [About MEC VPN](https://mecvpn.com/about)
+
+## Project Team
+
+**Artur Buniatyan** — Founder's Assistant & Project Contributor.
+
+Artur supports the development and growth of MEC VPN alongside me.
+
+---
+
+**Arman Akopyan**  
+Founder & Creator of MEC VPN
